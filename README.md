@@ -119,5 +119,5 @@ excel-chocolate-sales-dashboard/
 **Anna María Román Ríos**
 
 - 💼 Aspiring Data Analyst
-- 🌐 LinkedIn: *(Add your LinkedIn profile)*
+- 🌐 LinkedIn: *(www.linkedin.com/in/anna-román-8669a4191)*
 - 💻 GitHub: https://github.com/romanna-data
